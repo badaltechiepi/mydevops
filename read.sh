@@ -1,9 +1,7 @@
 #!/bin/bash
-echo "Enter A value:"
-read A
 
-echo "Enter B value:"
-read B
-echo "The value of A: $A"
-echo "The value of B:$B"
+read -p "Enter the value of A:"A
+read -p "Enter the value of B:"B
 
+echo "The value of A is $A"
+echo "The value of B is $B"
