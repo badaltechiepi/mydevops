@@ -1,1 +1,1 @@
-# Q-git
+# This folder is used for all the github related things and also we are using this folder for linux and shell scriping
