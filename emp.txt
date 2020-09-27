@@ -1,0 +1,7 @@
+The employ name is Bada
+The employ id is 009
+The employ sal is 10000
+The employ name is Pritam
+The employ id is 009
+The employ sal is 10
+Pritam:009:10
